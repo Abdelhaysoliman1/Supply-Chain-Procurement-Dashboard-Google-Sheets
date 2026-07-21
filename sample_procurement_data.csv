@@ -1,0 +1,201 @@
+Project Name,Supplier,Product,Quantity,Unit Price,Total,Start Date,Project Duration (Weeks),Deadline,Payment Status,Status
+Warehouse Expansion,Prime Supply,Sensors,1206,2389.17,2881339.02,02/05/2026,4,03/05/2026,Not Paid,Pending
+Warehouse Expansion,Modern Procurement,Sensors,1753,937.27,1643034.31,02/08/2026,3,03/01/2026,Fully Paid,In Progress
+Warehouse Expansion,Nile Equipment,Sensors,836,608.23,508480.28,02/07/2026,4,03/07/2026,Fully Paid,Pending
+Warehouse Expansion,Modern Procurement,Safety Helmet,1278,419.10,535609.80,02/07/2026,7,03/28/2026,Fully Paid,Completed
+Warehouse Expansion,Tech Source,Pallets,1924,1311.22,2522787.28,01/30/2026,4,02/27/2026,Partial Payment,Delayed
+Warehouse Expansion,ABC Supplies,Packaging Boxes,278,3361.73,934560.94,01/29/2026,6,03/12/2026,Partial Payment,Pending
+Warehouse Expansion,Tech Source,Safety Helmet,29,2296.84,66608.36,02/07/2026,3,02/28/2026,Not Paid,In Progress
+Warehouse Expansion,ABC Supplies,Steel Pipes,1046,1333.35,1394684.10,01/31/2026,3,02/21/2026,Not Paid,Completed
+Warehouse Expansion,Modern Procurement,Conveyor Belt,593,797.16,472715.88,02/06/2026,5,03/13/2026,Fully Paid,Pending
+Warehouse Expansion,Smart Solutions,Sensors,1377,4087.35,5628280.95,01/29/2026,3,02/19/2026,Not Paid,Completed
+RFID Implementation,Future Materials,RFID Tags,524,4527.63,2372478.12,09/07/2026,17,01/04/2027,Fully Paid,Delayed
+RFID Implementation,Smart Solutions,Barcode Scanner,1708,1390.63,2375196.04,09/06/2026,19,01/17/2027,Not Paid,Completed
+RFID Implementation,Delta Trading,RFID Tags,340,3708.74,1260971.60,09/23/2026,20,02/10/2027,Fully Paid,Pending
+RFID Implementation,ABC Supplies,Cable,239,385.47,92127.33,09/10/2026,21,02/04/2027,Not Paid,Completed
+RFID Implementation,Smart Solutions,Printer,1202,2767.10,3326054.20,09/19/2026,18,01/23/2027,Not Paid,Completed
+RFID Implementation,Nile Equipment,RFID Readers,756,4495.92,3398915.52,09/07/2026,19,01/18/2027,Not Paid,In Progress
+RFID Implementation,Global Industrial,RFID Tags,1375,522.94,719042.50,09/23/2026,20,02/10/2027,Fully Paid,In Progress
+RFID Implementation,United Traders,Cable,1905,4650.11,8858459.55,09/11/2026,18,01/15/2027,Partial Payment,Pending
+RFID Implementation,United Traders,Printer,377,3685.46,1389418.42,09/16/2026,20,02/03/2027,Fully Paid,In Progress
+RFID Implementation,Delta Trading,Antenna,556,804.40,447246.40,09/09/2026,20,01/27/2027,Not Paid,Delayed
+ERP Upgrade,Smart Solutions,Sensors,1323,2551.93,3376203.39,05/30/2026,15,09/12/2026,Not Paid,Pending
+ERP Upgrade,Global Industrial,Cable,1806,4852.30,8763253.80,05/18/2026,17,09/14/2026,Partial Payment,Pending
+ERP Upgrade,Future Materials,Barcode Scanner,232,2986.89,692958.48,05/24/2026,15,09/06/2026,Partial Payment,Pending
+ERP Upgrade,Global Industrial,Control Panel,798,4498.53,3589826.94,05/19/2026,15,09/01/2026,Not Paid,Delayed
+ERP Upgrade,Future Materials,Control Panel,13,2604.40,33857.20,05/30/2026,14,09/05/2026,Partial Payment,Delayed
+ERP Upgrade,Delta Trading,Barcode Scanner,153,4744.88,725966.64,05/23/2026,17,09/19/2026,Partial Payment,Pending
+ERP Upgrade,Prime Supply,Barcode Scanner,1484,4501.23,6679825.32,05/29/2026,15,09/11/2026,Fully Paid,Delayed
+ERP Upgrade,Prime Supply,Printer,678,2017.98,1368190.44,05/22/2026,17,09/18/2026,Not Paid,In Progress
+ERP Upgrade,Prime Supply,Control Panel,871,3328.00,2898688.00,05/25/2026,14,08/31/2026,Fully Paid,Completed
+ERP Upgrade,Smart Solutions,Cable,841,2744.21,2307880.61,05/13/2026,15,08/26/2026,Partial Payment,In Progress
+Factory Automation,Delta Trading,Conveyor Belt,591,2582.11,1526027.01,12/14/2026,8,02/08/2027,Partial Payment,Pending
+Factory Automation,Delta Trading,PLC Controller,1686,4760.48,8026169.28,12/01/2026,6,01/12/2027,Not Paid,In Progress
+Factory Automation,ABC Supplies,Sensors,311,131.88,41014.68,12/01/2026,7,01/19/2027,Fully Paid,Pending
+Factory Automation,Future Materials,Electric Motor,942,2078.06,1957532.52,12/14/2026,8,02/08/2027,Not Paid,Delayed
+Factory Automation,Global Industrial,Control Panel,1022,2004.27,2048363.94,11/28/2026,4,12/26/2026,Not Paid,Delayed
+Factory Automation,Global Industrial,Cable,458,887.67,406552.86,12/10/2026,7,01/28/2027,Not Paid,In Progress
+Factory Automation,Tech Source,Electric Motor,1888,4243.20,8011161.60,12/08/2026,5,01/12/2027,Partial Payment,Completed
+Factory Automation,Nile Equipment,Conveyor Belt,1955,3778.70,7387358.50,12/08/2026,8,02/02/2027,Fully Paid,Delayed
+Factory Automation,Smart Solutions,Conveyor Belt,1711,4535.21,7759744.31,12/08/2026,5,01/12/2027,Fully Paid,Delayed
+Factory Automation,United Traders,Cable,931,1303.37,1213437.47,12/01/2026,6,01/12/2027,Fully Paid,Delayed
+Production Line A,Delta Trading,PLC Controller,1456,1077.62,1569014.72,07/19/2026,9,09/20/2026,Partial Payment,Delayed
+Production Line A,Tech Source,PLC Controller,861,320.71,276131.31,07/19/2026,9,09/20/2026,Fully Paid,Pending
+Production Line A,Prime Supply,Bearings,1764,4404.48,7769502.72,07/24/2026,9,09/25/2026,Partial Payment,Pending
+Production Line A,Delta Trading,Conveyor Belt,1940,1765.28,3424643.20,07/18/2026,9,09/19/2026,Fully Paid,In Progress
+Production Line A,United Traders,Electric Motor,1009,1104.91,1114854.19,07/19/2026,9,09/20/2026,Not Paid,Delayed
+Production Line A,ABC Supplies,Electric Motor,698,3347.68,2336680.64,07/18/2026,7,09/05/2026,Partial Payment,In Progress
+Production Line A,Global Industrial,PLC Controller,1284,2675.28,3435059.52,07/18/2026,10,09/26/2026,Fully Paid,Pending
+Production Line A,Modern Procurement,Conveyor Belt,181,3217.32,582334.92,07/10/2026,9,09/11/2026,Not Paid,Pending
+Production Line A,United Traders,Control Panel,542,1901.73,1030737.66,07/12/2026,9,09/13/2026,Partial Payment,Completed
+Production Line A,Smart Solutions,Bearings,1568,4399.40,6898259.20,07/14/2026,9,09/15/2026,Partial Payment,Pending
+Production Line B,Prime Supply,PLC Controller,979,3350.60,3280237.40,05/11/2026,7,06/29/2026,Partial Payment,Completed
+Production Line B,Modern Procurement,PLC Controller,1580,1850.79,2924248.20,05/12/2026,10,07/21/2026,Fully Paid,Pending
+Production Line B,Prime Supply,Bearings,1602,4098.31,6565492.62,05/02/2026,6,06/13/2026,Fully Paid,Pending
+Production Line B,Delta Trading,Sensors,1912,1566.67,2995473.04,05/05/2026,9,07/07/2026,Fully Paid,In Progress
+Production Line B,Delta Trading,Electric Motor,165,2964.57,489154.05,05/13/2026,7,07/01/2026,Not Paid,Completed
+Production Line B,Modern Procurement,Sensors,1751,3424.45,5996211.95,04/26/2026,10,07/05/2026,Not Paid,Completed
+Production Line B,Delta Trading,Electric Motor,1101,2147.61,2364518.61,05/04/2026,6,06/15/2026,Fully Paid,Completed
+Production Line B,Smart Solutions,Electric Motor,35,4249.38,148728.30,05/08/2026,6,06/19/2026,Partial Payment,Completed
+Production Line B,Future Materials,Conveyor Belt,1311,4458.96,5845696.56,05/07/2026,7,06/25/2026,Partial Payment,In Progress
+Production Line B,Modern Procurement,Bearings,1512,2613.52,3951642.24,05/13/2026,8,07/08/2026,Fully Paid,Delayed
+Cold Storage Project,Tech Source,Cable,382,2442.87,933176.34,09/12/2026,14,12/19/2026,Partial Payment,Completed
+Cold Storage Project,Delta Trading,Sensors,1812,2984.81,5408475.72,09/09/2026,16,12/30/2026,Not Paid,In Progress
+Cold Storage Project,Prime Supply,Steel Pipes,185,1214.37,224658.45,09/14/2026,15,12/28/2026,Fully Paid,In Progress
+Cold Storage Project,Prime Supply,Air Compressor,1424,2385.70,3397236.80,09/16/2026,15,12/30/2026,Not Paid,Pending
+Cold Storage Project,United Traders,Steel Pipes,612,1115.77,682851.24,09/08/2026,14,12/15/2026,Fully Paid,Completed
+Cold Storage Project,Nile Equipment,Cable,979,2771.83,2713621.57,09/12/2026,15,12/26/2026,Fully Paid,Completed
+Cold Storage Project,Prime Supply,Cable,730,3517.25,2567592.50,09/09/2026,14,12/16/2026,Partial Payment,In Progress
+Cold Storage Project,Tech Source,Air Compressor,257,3609.21,927566.97,09/11/2026,12,12/04/2026,Fully Paid,In Progress
+Cold Storage Project,Smart Solutions,Control Panel,402,1089.76,438083.52,09/16/2026,14,12/23/2026,Fully Paid,Completed
+Cold Storage Project,Nile Equipment,Steel Pipes,215,4164.82,895436.30,09/10/2026,13,12/10/2026,Partial Payment,In Progress
+Packaging Improvement,Tech Source,Conveyor Belt,912,1710.12,1559629.44,08/20/2026,19,12/31/2026,Partial Payment,Pending
+Packaging Improvement,Global Industrial,Packaging Boxes,1693,336.06,568949.58,09/03/2026,17,12/31/2026,Fully Paid,Pending
+Packaging Improvement,ABC Supplies,Barcode Scanner,320,754.50,241440.00,09/06/2026,19,01/17/2027,Not Paid,In Progress
+Packaging Improvement,Global Industrial,Pallets,252,2794.78,704284.56,09/01/2026,21,01/26/2027,Fully Paid,In Progress
+Packaging Improvement,Nile Equipment,Printer,1598,2617.64,4182988.72,09/02/2026,20,01/20/2027,Partial Payment,Delayed
+Packaging Improvement,Modern Procurement,Pallets,635,2847.46,1808137.10,08/20/2026,21,01/14/2027,Fully Paid,Pending
+Packaging Improvement,Future Materials,Conveyor Belt,1950,3816.06,7441317.00,09/08/2026,18,01/12/2027,Partial Payment,Pending
+Packaging Improvement,Modern Procurement,Barcode Scanner,331,1206.93,399493.83,09/05/2026,17,01/02/2027,Not Paid,Pending
+Packaging Improvement,Smart Solutions,Conveyor Belt,846,2258.01,1910276.46,09/07/2026,20,01/25/2027,Partial Payment,Pending
+Packaging Improvement,Prime Supply,Packaging Boxes,484,1447.64,700657.76,08/28/2026,20,01/15/2027,Not Paid,In Progress
+Logistics Optimization,Prime Supply,Packaging Boxes,1896,1450.17,2749522.32,10/25/2026,23,04/04/2027,Fully Paid,Completed
+Logistics Optimization,Global Industrial,RFID Tags,1443,2018.52,2912724.36,10/30/2026,24,04/16/2027,Fully Paid,Delayed
+Logistics Optimization,Nile Equipment,Pallets,906,411.40,372728.40,10/23/2026,23,04/02/2027,Fully Paid,Completed
+Logistics Optimization,Tech Source,Packaging Boxes,1246,1259.34,1569137.64,10/24/2026,21,03/20/2027,Fully Paid,Pending
+Logistics Optimization,United Traders,Pallets,1576,3364.69,5302751.44,10/30/2026,24,04/16/2027,Not Paid,In Progress
+Logistics Optimization,ABC Supplies,Barcode Scanner,973,2599.63,2529439.99,11/05/2026,22,04/08/2027,Not Paid,Delayed
+Logistics Optimization,Global Industrial,Barcode Scanner,1310,4073.08,5335734.80,10/24/2026,23,04/03/2027,Partial Payment,Delayed
+Logistics Optimization,United Traders,RFID Tags,692,1612.08,1115559.36,10/25/2026,21,03/21/2027,Partial Payment,Delayed
+Logistics Optimization,Modern Procurement,RFID Readers,1430,2482.39,3549817.70,11/03/2026,24,04/20/2027,Not Paid,Delayed
+Logistics Optimization,Prime Supply,RFID Readers,190,1579.44,300093.60,11/01/2026,20,03/21/2027,Partial Payment,Pending
+Smart Inventory,Nile Equipment,Barcode Scanner,1813,3494.27,6335111.51,05/21/2026,16,09/10/2026,Fully Paid,In Progress
+Smart Inventory,Nile Equipment,Antenna,1463,800.31,1170853.53,06/04/2026,16,09/24/2026,Fully Paid,Delayed
+Smart Inventory,Modern Procurement,Sensors,200,1131.26,226252.00,05/21/2026,19,10/01/2026,Not Paid,In Progress
+Smart Inventory,Smart Solutions,RFID Readers,1030,4663.94,4803858.20,05/27/2026,20,10/14/2026,Fully Paid,Completed
+Smart Inventory,Global Industrial,RFID Tags,860,4175.27,3590732.20,06/02/2026,17,09/29/2026,Partial Payment,In Progress
+Smart Inventory,United Traders,Sensors,795,961.15,764114.25,06/06/2026,20,10/24/2026,Fully Paid,In Progress
+Smart Inventory,Global Industrial,RFID Readers,1779,358.35,637504.65,05/31/2026,18,10/04/2026,Fully Paid,Completed
+Smart Inventory,Global Industrial,Sensors,1690,22.80,38532.00,05/27/2026,20,10/14/2026,Fully Paid,Delayed
+Smart Inventory,United Traders,Antenna,1782,751.49,1339155.18,06/04/2026,19,10/15/2026,Partial Payment,Completed
+Smart Inventory,Global Industrial,RFID Tags,1140,3816.73,4351072.20,05/30/2026,19,10/10/2026,Partial Payment,In Progress
+Quality Control Upgrade,Prime Supply,Control Panel,689,4349.80,2997012.20,09/19/2026,20,02/06/2027,Fully Paid,Delayed
+Quality Control Upgrade,Smart Solutions,Barcode Scanner,41,3614.99,148214.59,09/18/2026,21,02/12/2027,Not Paid,Delayed
+Quality Control Upgrade,Tech Source,Sensors,1610,4846.33,7802591.30,09/15/2026,24,03/02/2027,Fully Paid,Delayed
+Quality Control Upgrade,Smart Solutions,Printer,1340,410.77,550431.80,09/15/2026,24,03/02/2027,Partial Payment,Completed
+Quality Control Upgrade,Nile Equipment,Control Panel,1293,3596.40,4650145.20,09/20/2026,24,03/07/2027,Not Paid,Pending
+Quality Control Upgrade,Prime Supply,Barcode Scanner,490,3159.49,1548150.10,09/14/2026,21,02/08/2027,Fully Paid,Pending
+Quality Control Upgrade,Delta Trading,Printer,898,4891.91,4392935.18,09/25/2026,20,02/12/2027,Partial Payment,In Progress
+Quality Control Upgrade,Global Industrial,Sensors,1431,1504.34,2152710.54,09/05/2026,20,01/23/2027,Partial Payment,Pending
+Quality Control Upgrade,ABC Supplies,Control Panel,610,1798.73,1097225.30,09/18/2026,21,02/12/2027,Not Paid,Delayed
+Quality Control Upgrade,ABC Supplies,Printer,1169,3412.18,3988838.42,09/10/2026,21,02/04/2027,Not Paid,Pending
+Distribution Center,Future Materials,Steel Pipes,1397,2737.52,3824315.44,08/19/2026,14,11/25/2026,Partial Payment,Completed
+Distribution Center,Future Materials,Pallets,1318,4810.53,6340278.54,08/25/2026,14,12/01/2026,Partial Payment,In Progress
+Distribution Center,Prime Supply,Packaging Boxes,797,4268.14,3401707.58,08/20/2026,12,11/12/2026,Partial Payment,Completed
+Distribution Center,Global Industrial,RFID Tags,1187,1486.40,1764356.80,08/26/2026,11,11/11/2026,Fully Paid,Delayed
+Distribution Center,Future Materials,Packaging Boxes,572,50.41,28834.52,08/18/2026,15,12/01/2026,Fully Paid,Delayed
+Distribution Center,ABC Supplies,Steel Pipes,1715,4521.73,7754766.95,08/26/2026,12,11/18/2026,Fully Paid,Completed
+Distribution Center,Future Materials,Steel Pipes,458,3186.72,1459517.76,09/05/2026,13,12/05/2026,Fully Paid,In Progress
+Distribution Center,Future Materials,RFID Tags,1296,494.85,641325.60,09/06/2026,11,11/22/2026,Partial Payment,Delayed
+Distribution Center,Modern Procurement,Conveyor Belt,78,2902.07,226361.46,08/21/2026,11,11/06/2026,Partial Payment,Completed
+Distribution Center,ABC Supplies,RFID Tags,1540,2083.36,3208374.40,08/23/2026,12,11/15/2026,Fully Paid,Completed
+New Factory Setup,Tech Source,Electric Motor,1990,4230.26,8418217.40,05/03/2026,16,08/23/2026,Not Paid,Delayed
+New Factory Setup,ABC Supplies,Cable,38,1329.65,50526.70,04/19/2026,17,08/16/2026,Partial Payment,Completed
+New Factory Setup,Global Industrial,PLC Controller,1207,1911.32,2306963.24,05/06/2026,16,08/26/2026,Not Paid,In Progress
+New Factory Setup,Tech Source,Control Panel,975,134.87,131498.25,05/03/2026,16,08/23/2026,Fully Paid,In Progress
+New Factory Setup,Global Industrial,Steel Pipes,1336,325.45,434801.20,04/30/2026,16,08/20/2026,Fully Paid,Delayed
+New Factory Setup,ABC Supplies,PLC Controller,248,707.49,175457.52,04/17/2026,16,08/07/2026,Partial Payment,Pending
+New Factory Setup,Nile Equipment,Safety Helmet,209,1181.65,246964.85,05/03/2026,15,08/16/2026,Partial Payment,Delayed
+New Factory Setup,Global Industrial,Electric Motor,769,3355.73,2580556.37,05/03/2026,17,08/30/2026,Fully Paid,In Progress
+New Factory Setup,United Traders,Cable,1823,2080.27,3792332.21,04/19/2026,17,08/16/2026,Fully Paid,Delayed
+New Factory Setup,United Traders,Cable,1933,4758.09,9197387.97,04/17/2026,16,08/07/2026,Not Paid,Delayed
+Retail Expansion,Delta Trading,RFID Tags,1232,4855.76,5982296.32,11/16/2026,24,05/03/2027,Not Paid,In Progress
+Retail Expansion,Future Materials,Barcode Scanner,1621,2827.24,4582956.04,11/17/2026,24,05/04/2027,Not Paid,In Progress
+Retail Expansion,Prime Supply,RFID Tags,1675,4349.78,7285881.50,11/25/2026,23,05/05/2027,Fully Paid,Pending
+Retail Expansion,Tech Source,Printer,577,4293.45,2477320.65,11/19/2026,23,04/29/2027,Fully Paid,Completed
+Retail Expansion,Future Materials,Packaging Boxes,1645,880.74,1448817.30,11/15/2026,23,04/25/2027,Not Paid,Completed
+Retail Expansion,Modern Procurement,RFID Tags,1627,3944.27,6417327.29,12/03/2026,24,05/20/2027,Not Paid,In Progress
+Retail Expansion,Future Materials,Printer,553,271.47,150122.91,11/28/2026,24,05/15/2027,Not Paid,Pending
+Retail Expansion,Smart Solutions,Packaging Boxes,985,2246.89,2213186.65,11/26/2026,24,05/13/2027,Fully Paid,Pending
+Retail Expansion,ABC Supplies,RFID Tags,935,2524.16,2360089.60,12/04/2026,22,05/07/2027,Fully Paid,Completed
+Retail Expansion,ABC Supplies,Barcode Scanner,948,3220.27,3052815.96,11/15/2026,22,04/18/2027,Partial Payment,Delayed
+Conveyor Installation,Smart Solutions,Conveyor Belt,1249,2156.69,2693705.81,08/14/2026,22,01/15/2027,Fully Paid,In Progress
+Conveyor Installation,Prime Supply,PLC Controller,890,2263.26,2014301.40,08/18/2026,21,01/12/2027,Partial Payment,Delayed
+Conveyor Installation,Nile Equipment,PLC Controller,826,2085.79,1722862.54,08/14/2026,20,01/01/2027,Partial Payment,Completed
+Conveyor Installation,Modern Procurement,Steel Pipes,1372,1281.90,1758766.80,08/15/2026,21,01/09/2027,Not Paid,Pending
+Conveyor Installation,Smart Solutions,PLC Controller,1713,435.97,746816.61,08/24/2026,18,12/28/2026,Fully Paid,Completed
+Conveyor Installation,United Traders,Conveyor Belt,1672,659.28,1102316.16,08/12/2026,22,01/13/2027,Fully Paid,Completed
+Conveyor Installation,Nile Equipment,Conveyor Belt,1382,619.93,856743.26,08/22/2026,21,01/16/2027,Fully Paid,Pending
+Conveyor Installation,ABC Supplies,Bearings,1993,1445.27,2880423.11,08/20/2026,20,01/07/2027,Not Paid,In Progress
+Conveyor Installation,United Traders,PLC Controller,326,3287.11,1071597.86,08/18/2026,18,12/22/2026,Partial Payment,Completed
+Conveyor Installation,United Traders,Electric Motor,245,3815.40,934773.00,08/29/2026,19,01/09/2027,Partial Payment,Pending
+Solar Energy Project,Prime Supply,Sensors,197,3733.10,735420.70,11/17/2026,5,12/22/2026,Partial Payment,Delayed
+Solar Energy Project,Smart Solutions,Sensors,708,795.47,563192.76,11/20/2026,4,12/18/2026,Fully Paid,Pending
+Solar Energy Project,ABC Supplies,Sensors,1819,272.52,495713.88,11/16/2026,6,12/28/2026,Not Paid,Pending
+Solar Energy Project,Nile Equipment,Steel Pipes,567,2221.13,1259380.71,11/24/2026,5,12/29/2026,Fully Paid,Delayed
+Solar Energy Project,Global Industrial,Sensors,858,1373.10,1178119.80,11/27/2026,2,12/11/2026,Partial Payment,Delayed
+Solar Energy Project,Future Materials,Control Panel,237,1423.40,337345.80,11/29/2026,5,01/03/2027,Fully Paid,Completed
+Solar Energy Project,Modern Procurement,Control Panel,103,1110.39,114370.17,11/30/2026,2,12/14/2026,Not Paid,In Progress
+Solar Energy Project,Tech Source,Sensors,627,4727.17,2963935.59,11/15/2026,4,12/13/2026,Partial Payment,Completed
+Solar Energy Project,Global Industrial,Cable,255,48.57,12385.35,11/24/2026,3,12/15/2026,Not Paid,Delayed
+Solar Energy Project,Future Materials,Cable,1100,3521.32,3873452.00,11/27/2026,6,01/08/2027,Fully Paid,Completed
+Maintenance Program,Tech Source,Bearings,865,1454.68,1258298.20,12/31/2026,22,06/03/2027,Partial Payment,In Progress
+Maintenance Program,Smart Solutions,Cable,1651,4738.60,7823428.60,12/31/2026,24,06/17/2027,Not Paid,Delayed
+Maintenance Program,Prime Supply,Air Compressor,1739,538.26,936034.14,12/31/2026,24,06/17/2027,Partial Payment,Pending
+Maintenance Program,Future Materials,Safety Helmet,820,4353.92,3570214.40,12/30/2026,23,06/09/2027,Partial Payment,In Progress
+Maintenance Program,United Traders,Pumps,166,2557.31,424513.46,12/23/2026,24,06/09/2027,Fully Paid,In Progress
+Maintenance Program,ABC Supplies,Gloves,1865,3883.38,7242503.70,12/31/2026,23,06/10/2027,Not Paid,Pending
+Maintenance Program,Tech Source,Air Compressor,309,1287.28,397769.52,12/25/2026,24,06/11/2027,Not Paid,Pending
+Maintenance Program,United Traders,Safety Helmet,372,4756.95,1769585.40,12/31/2026,24,06/17/2027,Partial Payment,Delayed
+Maintenance Program,Nile Equipment,Bearings,1404,4621.53,6488628.12,12/31/2026,24,06/17/2027,Partial Payment,Completed
+Maintenance Program,ABC Supplies,Bearings,319,2204.42,703209.98,12/31/2026,24,06/17/2027,Fully Paid,Completed
+Safety Improvement,Modern Procurement,Control Panel,1145,4771.62,5463504.90,08/16/2026,23,01/24/2027,Fully Paid,In Progress
+Safety Improvement,United Traders,Gloves,668,3028.98,2023358.64,08/31/2026,21,01/25/2027,Not Paid,Delayed
+Safety Improvement,United Traders,Safety Helmet,221,4056.72,896535.12,08/25/2026,20,01/12/2027,Fully Paid,In Progress
+Safety Improvement,Delta Trading,Sensors,90,1246.24,112161.60,08/29/2026,23,02/06/2027,Fully Paid,In Progress
+Safety Improvement,Prime Supply,Control Panel,755,1870.53,1412250.15,08/24/2026,23,02/01/2027,Partial Payment,Completed
+Safety Improvement,ABC Supplies,Sensors,1400,2993.45,4190830.00,09/04/2026,22,02/05/2027,Not Paid,Completed
+Safety Improvement,Nile Equipment,Sensors,203,2794.24,567230.72,08/27/2026,22,01/28/2027,Partial Payment,In Progress
+Safety Improvement,Global Industrial,Sensors,692,416.69,288349.48,08/19/2026,22,01/20/2027,Partial Payment,Delayed
+Safety Improvement,Tech Source,Safety Helmet,274,2979.26,816317.24,08/17/2026,22,01/18/2027,Fully Paid,Delayed
+Safety Improvement,Tech Source,Safety Helmet,1327,3960.39,5255437.53,08/19/2026,24,02/03/2027,Not Paid,Delayed
+Spare Parts Procurement,Tech Source,Industrial Fan,1739,3942.72,6856390.08,02/15/2026,15,05/31/2026,Fully Paid,Pending
+Spare Parts Procurement,Modern Procurement,Air Compressor,1365,1690.45,2307464.25,02/18/2026,12,05/13/2026,Fully Paid,Delayed
+Spare Parts Procurement,Modern Procurement,Bearings,325,819.61,266373.25,02/18/2026,12,05/13/2026,Fully Paid,Delayed
+Spare Parts Procurement,United Traders,Electric Motor,99,2060.18,203957.82,02/06/2026,14,05/15/2026,Fully Paid,Completed
+Spare Parts Procurement,Nile Equipment,Pumps,1550,3745.20,5805060.00,02/13/2026,12,05/08/2026,Fully Paid,In Progress
+Spare Parts Procurement,Delta Trading,Electric Motor,643,4828.33,3104616.19,02/14/2026,12,05/09/2026,Partial Payment,Delayed
+Spare Parts Procurement,Modern Procurement,Bearings,955,3849.50,3676272.50,02/11/2026,15,05/27/2026,Fully Paid,Delayed
+Spare Parts Procurement,Smart Solutions,Cable,1988,818.67,1627515.96,02/05/2026,15,05/21/2026,Not Paid,Completed
+Spare Parts Procurement,Nile Equipment,Electric Motor,116,3209.48,372299.68,02/10/2026,15,05/26/2026,Not Paid,Pending
+Spare Parts Procurement,Prime Supply,Air Compressor,593,428.54,254124.22,02/04/2026,13,05/06/2026,Partial Payment,In Progress
+Office Relocation,Nile Equipment,Printer,662,4654.82,3081490.84,05/05/2026,4,06/02/2026,Not Paid,In Progress
+Office Relocation,Future Materials,Packaging Boxes,88,1441.53,126854.64,04/30/2026,3,05/21/2026,Fully Paid,Delayed
+Office Relocation,Tech Source,Pallets,928,3080.59,2858787.52,04/17/2026,2,05/01/2026,Partial Payment,In Progress
+Office Relocation,Nile Equipment,Packaging Boxes,1720,756.10,1300492.00,05/04/2026,6,06/15/2026,Partial Payment,Pending
+Office Relocation,Nile Equipment,Cable,1599,1447.63,2314760.37,04/24/2026,2,05/08/2026,Not Paid,In Progress
+Office Relocation,Modern Procurement,Pallets,869,3198.37,2779383.53,05/04/2026,5,06/08/2026,Not Paid,Pending
+Office Relocation,Delta Trading,Packaging Boxes,1723,4526.68,7799469.64,05/04/2026,6,06/15/2026,Not Paid,In Progress
+Office Relocation,Future Materials,Printer,1481,726.45,1075872.45,04/28/2026,2,05/12/2026,Fully Paid,Completed
+Office Relocation,Smart Solutions,Printer,502,2857.61,1434520.22,04/20/2026,2,05/04/2026,Fully Paid,Completed
+Office Relocation,Future Materials,Cable,148,4767.48,705587.04,05/02/2026,6,06/13/2026,Fully Paid,Pending
